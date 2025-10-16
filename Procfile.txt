@@ -1,1 +1,0 @@
-worker: python crypto_alert_pro.py
